@@ -1,0 +1,2 @@
+2023-12-19 17:00:37,809 [INFO] Number of partitions are 1
+2023-12-19 17:00:37,893 [INFO] Data frame is DataFrame[Segment: string, Country: string,  Product : string,  Discount Band : string, Units Sold: double,  Manufacturing Price : string,  Sale Price : string,  Gross Sales : string,  Discounts : string,   Sales : string,  COGS : string,  Profit : string, Date: string, Month Number: int,  Month Name : string, Year: int]
