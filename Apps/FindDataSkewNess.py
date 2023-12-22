@@ -23,7 +23,8 @@ def dataskewness():
                 #print(type(skewnessvalue))
                 #print(type(thresholdvalue))
                 logging.info(f"Skewness value of {col_name} is {skewnessvalue} threshold value is {thresholdvalue}")
-                skew_label = "skewed" if skewnessvalue >= 0.5 else "Non-Skewed"
+                thresholdvalue=0.50
+                skew_label = "skewed" if skewnessvalue >= thresholdvalue else "Non-Skewed"
                 #print(skew_label)
                 #print("thereshold condition pass")
                 skewnescolumns[col_name]=(skew_label,skewnessvalue)
