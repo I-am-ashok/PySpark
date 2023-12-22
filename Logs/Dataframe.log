@@ -1,0 +1,58 @@
+2023-12-22 12:43:51,879 [INFO] the column name is segment and the data type is StringType()
+2023-12-22 12:43:51,910 [INFO] condition not satisfied !!
+2023-12-22 12:43:51,927 [INFO] segment skewness checking is completed. 
+2023-12-22 12:43:51,928 [INFO] the column name is Country and the data type is StringType()
+2023-12-22 12:43:51,951 [INFO] condition not satisfied !!
+2023-12-22 12:43:51,965 [INFO] Country skewness checking is completed. 
+2023-12-22 12:43:51,965 [INFO] the column name is Product and the data type is StringType()
+2023-12-22 12:43:52,003 [INFO] condition not satisfied !!
+2023-12-22 12:43:52,003 [INFO] Product skewness checking is completed. 
+2023-12-22 12:43:52,003 [INFO] the column name is Discount Band and the data type is StringType()
+2023-12-22 12:43:52,031 [INFO] condition not satisfied !!
+2023-12-22 12:43:52,045 [INFO] Discount Band skewness checking is completed. 
+2023-12-22 12:43:52,047 [INFO] the column name is Units Sold and the data type is IntegerType()
+2023-12-22 12:43:58,184 [INFO] Skewness value of Units Sold is 0.44 threshold value is 0.5
+2023-12-22 12:43:58,184 [INFO] condition not satisfied !!
+2023-12-22 12:43:58,184 [INFO] Units Sold skewness checking is completed. 
+2023-12-22 12:43:58,184 [INFO] the column name is Manufacturing Price and the data type is FloatType()
+2023-12-22 12:43:58,853 [INFO] Skewness value of Manufacturing Price is 0.59 threshold value is 0.5
+2023-12-22 12:43:58,854 [INFO] condition not satisfied !!
+2023-12-22 12:43:58,855 [INFO] Manufacturing Price skewness checking is completed. 
+2023-12-22 12:43:58,856 [INFO] the column name is Sale Price and the data type is FloatType()
+2023-12-22 12:43:59,377 [INFO] Skewness value of Sale Price is 0.77 threshold value is 0.5
+2023-12-22 12:43:59,377 [INFO] condition not satisfied !!
+2023-12-22 12:43:59,377 [INFO] Sale Price skewness checking is completed. 
+2023-12-22 12:43:59,377 [INFO] the column name is Gross Sales and the data type is FloatType()
+2023-12-22 12:43:59,857 [INFO] Skewness value of Gross Sales is None threshold value is 0.5
+2023-12-22 12:43:59,859 [INFO] '>=' not supported between instances of 'NoneType' and 'float'
+2023-12-22 12:43:59,860 [INFO] Gross Sales skewness checking is completed. 
+2023-12-22 12:43:59,861 [INFO] the column name is Discounts and the data type is FloatType()
+2023-12-22 12:44:00,300 [INFO] Skewness value of Discounts is 0.03 threshold value is 0.5
+2023-12-22 12:44:00,300 [INFO] condition not satisfied !!
+2023-12-22 12:44:00,300 [INFO] Discounts skewness checking is completed. 
+2023-12-22 12:44:00,300 [INFO] the column name is Sales and the data type is FloatType()
+2023-12-22 12:44:00,755 [INFO] Skewness value of Sales is None threshold value is 0.5
+2023-12-22 12:44:00,755 [INFO] '>=' not supported between instances of 'NoneType' and 'float'
+2023-12-22 12:44:00,755 [INFO] Sales skewness checking is completed. 
+2023-12-22 12:44:00,755 [INFO] the column name is COGS and the data type is FloatType()
+2023-12-22 12:44:02,438 [INFO] Skewness value of COGS is None threshold value is 0.5
+2023-12-22 12:44:02,438 [INFO] '>=' not supported between instances of 'NoneType' and 'float'
+2023-12-22 12:44:02,438 [INFO] COGS skewness checking is completed. 
+2023-12-22 12:44:02,438 [INFO] the column name is Profit and the data type is FloatType()
+2023-12-22 12:44:02,878 [INFO] Skewness value of Profit is 0.06 threshold value is 0.5
+2023-12-22 12:44:02,878 [INFO] condition not satisfied !!
+2023-12-22 12:44:02,878 [INFO] Profit skewness checking is completed. 
+2023-12-22 12:44:02,878 [INFO] the column name is Date and the data type is StringType()
+2023-12-22 12:44:02,909 [INFO] condition not satisfied !!
+2023-12-22 12:44:02,911 [INFO] Date skewness checking is completed. 
+2023-12-22 12:44:02,913 [INFO] the column name is Month Number and the data type is IntegerType()
+2023-12-22 12:44:07,455 [INFO] Skewness value of Month Number is 0.58 threshold value is 0.5
+2023-12-22 12:44:07,471 [INFO] condition not satisfied !!
+2023-12-22 12:44:07,471 [INFO] Month Number skewness checking is completed. 
+2023-12-22 12:44:07,471 [INFO] the column name is Month Name and the data type is StringType()
+2023-12-22 12:44:07,511 [INFO] condition not satisfied !!
+2023-12-22 12:44:07,511 [INFO] Month Name skewness checking is completed. 
+2023-12-22 12:44:07,511 [INFO] the column name is Year and the data type is IntegerType()
+2023-12-22 12:44:07,970 [INFO] Skewness value of Year is 1.15 threshold value is 0.5
+2023-12-22 12:44:07,970 [INFO] condition not satisfied !!
+2023-12-22 12:44:07,970 [INFO] Year skewness checking is completed. 

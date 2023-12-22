@@ -35,6 +35,6 @@ def dataskewness():
         finally:
             logging.info(f"{col_name} skewness checking is completed. ")
     print("="*100)
-    print("The columns skewness is as follows  ")
+    print("The columns skewness is as follows  ") 
     return skewnescolumns
     
