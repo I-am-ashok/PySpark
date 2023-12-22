@@ -1,0 +1,1 @@
+2023-12-22 16:53:28,874 [INFO] The Window df is DataFrame[Product: string, SaleAmount: double, Profit: double, DenseRank: int, Rank: int, %Rank: double, RowNum: int, Lag: double, Lead: double, first: double, NthValue: double, Ntile: int, cume_dist: double]
